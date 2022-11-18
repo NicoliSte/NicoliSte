@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome! </h1>
 <hr />
 
-### Hey 👋, I'm [Nicoli!]
+### Hey 👋, I'm Nicoli!
 
 <a href="https://www.linkedin.com/in/nicoli-stefani-78986b22b//">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
