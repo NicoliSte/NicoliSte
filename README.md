@@ -22,7 +22,7 @@ Hi there, I'm **Nicoli Stefani**, a **Computer Engineering student** 🚀 and lo
 - 💼 programmer mentor in the program Program yourself: Girls in Science and Technology [Get more info](https://paraiba.pb.gov.br/noticias/programa-meninas-na-ciencia-e-tecnologia-reune-mais-de-150-participantes-na-capital);
 - 📫 Please email via nickstefan4@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae ](http://lattes.cnpq.br/9095878452869930) to get more info.
-- visit my personal website at (https://nicolistefani.netlify.app/).
+- Visit my personal website at (https://nicolistefani.netlify.app/).
 
 **Languages and Tools:**  
 
