@@ -23,7 +23,6 @@ Hi there, I'm **Nicoli Stefani**, a **Computer Engineering student** 🚀 and lo
 - 📫 Please email via nickstefan4@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae ](http://lattes.cnpq.br/9095878452869930) to get more info.
 - visit my personal website at (https://nicolistefani.netlify.app/).
-- 
 **Languages and Tools:**  
 
 
